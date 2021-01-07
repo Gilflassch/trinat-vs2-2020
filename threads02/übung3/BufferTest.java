@@ -5,16 +5,16 @@ import java.util.function.Consumer;
 public class BufferTest {
     public static void main(String[] args) {
         BufferN buffer = new BufferN(10);
-        ProducerThread Producer1 = new ProducerThread("Producer1", buffer);
-        ProducerThread Producer2 = new ProducerThread("Producer2", buffer);
-        ConsumerThread Consumer1 = new ConsumerThread("Consumer1", buffer);
-        ConsumerThread Consumer2 = new ConsumerThread("Consumer2", buffer);
+        ProducerThread ProducerA = new ProducerThread("ProducerA", buffer);
+        ProducerThread ProducerB = new ProducerThread("ProducerB", buffer);
+        ConsumerThread ConsumerA = new ConsumerThread("ConsumerA", buffer);
+        ConsumerThread ConsumerB = new ConsumerThread("ConsumerB", buffer);
 
-        Producer1.start();
-        Producer2.start();
+        ProducerA.start();
+        ProducerB.start();
 
-        Consumer1.start();
-        Consumer2.start();
+        ConsumerA.start();
+        ConsumerB.start();
 
 
     }

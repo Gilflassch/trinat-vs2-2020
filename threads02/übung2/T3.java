@@ -12,7 +12,7 @@ class T3 extends Thread {
     }
 
     private void a3() {
-        System.out.println("a3");
+        System.out.println("A3");
     }
 
     public void run() {

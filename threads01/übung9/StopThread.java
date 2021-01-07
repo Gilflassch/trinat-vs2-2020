@@ -19,8 +19,8 @@ class StopThread extends Thread {
         int i = 0;
         while (!isStopped()) {
             i++;
-            System.out.println("Hello World (" + i + ")");
+            System.out.println("Hallo Welt (" + i + ")");
         }
-        System.out.println("Thread ending now");
+        System.out.println("Thread stoppen");
     }
 }

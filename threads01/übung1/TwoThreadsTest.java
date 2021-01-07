@@ -2,8 +2,8 @@ package ch.trinat.edu.threads01.übung1;
 
 public class TwoThreadsTest {
     public static void main(String[] args) {
-        new SimpleThread("France").start();
-        new SimpleThread("Germany").start();
+        new SimpleThread("Monaco").start();
+        new SimpleThread("Guenersey").start();
         System.out.println("main exits " + Thread.currentThread().toString());
     }
 }

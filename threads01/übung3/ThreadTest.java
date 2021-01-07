@@ -6,10 +6,10 @@ public class ThreadTest{
         Thread myThread = new Thread(threadJob);
         myThread.start();
         try {
-            Thread.sleep(3100);
+            Thread.sleep(3500);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        System.out.println("back to main");
+        System.out.println("Back to main");
     }
 }

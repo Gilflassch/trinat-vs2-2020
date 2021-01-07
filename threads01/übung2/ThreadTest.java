@@ -10,6 +10,6 @@ public class ThreadTest {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        System.out.println("back to main");
+        System.out.println("Back to main");
     }
 }

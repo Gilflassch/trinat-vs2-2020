@@ -12,7 +12,7 @@ class T2 extends Thread {
     }
 
     private void a2() {
-        System.out.println("a2");
+        System.out.println("A2");
     }
 
     public void run() {

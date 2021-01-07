@@ -29,6 +29,6 @@ public class TippDesTagesServer {
     }
 
     private String getTipp() {
-        return "Don't be an idiot";
+        return "Soit pas bête!";
     }
 }
