@@ -4,12 +4,12 @@ body{
     font-family: Arial;
 }
 .title{
-    color: black;
+    color: darkred;
 }
 
 .Test{
     color: white;
 }
 img{
-    width : 20%;
+    width : 30%;
 }
