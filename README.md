@@ -1,51 +1,20 @@
 # trinat-vs2-2020
 
-Vorlage für Abgabe der Aufgaben verteilte Systeme 2 (HS2020)
+Vorlage für Abgabe der Aufgaben verteilte Systeme 2 _Gil FLASSCH--TRAUTH_
 
 <br>
 
 
-## Non-modular - Maven
+<h1> Übungen :</h1>
+1)Socket:TippDesTagesClient und TippDesTagesServer<br>
+2)Socket:ContestClient<br>
+3)Threads01: ThreadsÜbungenTeil 1(Übung 1, 2, 3, 4, 5, 6, 7, 8, 9, 10)<br>
+4)Threads02: Threads Übungen Teil 2(Übung 1, 2, 3, 6)<br>
+5)Docker:Docker Praktikum–HTML Datei erstellen <br>
+6)Web:Simple Webserver<br>
+7)Html:Code Makery HTML CSS<br>
 
-`trinat-vs2-2020` sample non-modular project to run with Maven
-
-### Linux / Mac
-
-If you run on Linux or Mac, follow these steps:
-
-    cd to the folder trinat-vs2-2020
-
-To run the project:
-
-    ./mvnw clean javafx:run
-
-To create a fat jar:
-
-    ./mvnw clean compile package
-    java -jar shade/trinat-vs2-2020.jar
-
-
-### Windows
-
-If you run on Windows, follow these steps:
-
-    cd to the folder trinat-vs2-2020
-
-To run the project:
-
-    mvnw compile javafx:run
-
-To create a fat jar:
-
-    mvnw clean compile package
-    java -jar shade\trinat-vs2-2020.jar
-
-
-## Import Maven Project in Eclipse
-
-Navigate to Import->Maven->Check out Maven project from scm
-
-If there is no git connector available... please install it
-
-
-## Trinat Projects
+<br/><br/>
+*Link für den Docker hub:* https://hub.docker.com/?ref=login
+<br>
+*Link für die Gruppenarbeit:* https://github.com/popo-source/Gruppenarbeit_VS2
