@@ -17,4 +17,4 @@ Vorlage für Abgabe der Aufgaben verteilte Systeme 2 _Gil FLASSCH--TRAUTH_
 <br/><br/>
 *Link für den Docker hub:* https://hub.docker.com/?ref=login
 <br>
-*Link für den Docker hub:* https://github.com/popo-source/Gruppenarbeit_VS2
+*Link für die Gruppenarbeit:* https://github.com/popo-source/Gruppenarbeit_VS2
