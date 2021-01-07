@@ -1,0 +1,2 @@
+Wenn wir das programm laufen lassen kommt uns vor das die Klasse ThreadTest immer als erstes Fertig ist.
+Die MyRunnable klasse endet erst nachdem die Thread.sleep funktion nach 10 Sekunden abgelaufen ist.
